@@ -8,8 +8,8 @@ Using it is as simple as following those two steps.
 
 Me and @pinakes working on [Draw!](http://drawbang.com): about 2 hours of design and development.
 
-* Design process: http://www.youtube.com/watch?v=iO94sUJoG1s
-* Develpment process: http://www.youtube.com/watch?v=VXXhDqfO4qA
+* Design process: [http://www.youtube.com/watch?v=iO94sUJoG1s](http://www.youtube.com/watch?v=iO94sUJoG1s)
+* Develpment process: [http://www.youtube.com/watch?v=VXXhDqfO4qA](http://www.youtube.com/watch?v=VXXhDqfO4qA)
 
 ## Step 1
 
@@ -46,6 +46,6 @@ $ ./clean_up.sh
 1. You need `ffmpeg` to make the time-lapse video.
 1. If you're running this script on Linux you need to install `imagemagick` to take screenshoots.
 
-# Source
+# Inspired by
 
-http://labs.laan.com/wp/2011/01/how-to-make-time-lapse-screencaptures-of-your-design-work-for-free-mac/
+[http://labs.laan.com/wp/2011/01/how-to-make-time-lapse-screencaptures-of-your-design-work-for-free-mac/](http://labs.laan.com/wp/2011/01/how-to-make-time-lapse-screencaptures-of-your-design-work-for-free-mac/)
