@@ -8,7 +8,7 @@ elif test "$(uname)" = 'Darwin'; then
   SCREENCAPTURE_CMD='screencapture -t jpg -x'
 else
   echo "This script doesn't support your OS type"
-  exit
+  exit 1
 fi
 
 # screen captures
