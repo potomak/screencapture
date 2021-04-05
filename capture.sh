@@ -34,7 +34,10 @@ fi
 
 # screen captures
 while [ 1 ]; do
-  APPINFOCUS=`osascript -e 'tell application "System Events"' -e 'set frontApp to name of first application process whose frontmost is true' -e 'end tell'`
+  if [ ! -z "${app}" ]
+      then
+        APPINFOCUS=`osascript -e 'tell application "System Events"' -e 'set frontApp to name of first application process whose frontmost is true' -e 'end tell'`
+  fi
   if [ "${APPINFOCUS}" == "${app}" ] || [ -z "${app}" ] #if --app command line option is provided, only capture when the specified app is in focus
     then
       $SCREENCAPTURE_CMD ./images/`date +%s`.jpg
