@@ -55,8 +55,4 @@ $ ./clean_up.sh
 
 # Inspired by
 
-[http://labs.laan.com/wp/2011/01/how-to-make-time-lapse-screencaptures-of-your-design-work-for-free-mac/](http://labs.laan.com/wp/2011/01/how-to-make-time-lapse-screencaptures-of-your-design-work-for-free-mac/)# Screen capture time-lapse
-
-A simple script to make time-lapse videos of your work.
-
-Using it is as simple as following those two steps.
+[http://labs.laan.com/wp/2011/01/how-to-make-time-lapse-screencaptures-of-your-design-work-for-free-mac/](http://labs.laan.com/wp/2011/01/how-to-make-time-lapse-screencaptures-of-your-design-work-for-free-mac/)
