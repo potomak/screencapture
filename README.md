@@ -1,4 +1,3 @@
-
 # Screen capture time-lapse
 
 A simple script to make time-lapse videos of your work.
